@@ -9,6 +9,6 @@ Boost.Beast is being used for a lightweight and flexible low-level networking li
 ## Requirements
 
 1. C++ 11
-2. Boost library 
-3. Boost [Beast](https://github.com/boostorg/beast), extra support for Boost.Asio
-4. 
+2. Boost C++ library
+4. Boost [Beast](https://github.com/boostorg/beast) (extra support for Boost.Asio)
+5. 
